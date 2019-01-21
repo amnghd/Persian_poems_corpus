@@ -27,7 +27,7 @@ There are 48 poets in this list. They are born all the way from 10th century B.C
 | Mohammad Taqi Bahar      | bahar.txt          | [here](https://en.wikipedia.org/wiki/Mohammad-Taqi_Bahar)                                                                    | ملک اشعرای بهار      |
 | Abdul Qadir Bedil        | bidel.txt          | [here](https://en.wikipedia.org/wiki/Abdul-Q%C4%81dir_Bedil)                                                                 | بیدل دهلوی           |
 | Fakhr al Din Iraqi       | eraghi.txt         | [here](https://en.wikipedia.org/wiki/Fakhr-al-Din_Iraqi)                                                                     | فخرالدین عراقی       |
-| Farrokhi Yazdi           | farrokhi.txt       |  [here](https://en.wikipedia.org/wiki/Mohammad_Farrokhi_Yazdi                                                                | فرخی یزدی            |
+| Farrokhi Yazdi           | farrokhi.txt       |  [here](https://en.wikipedia.org/wiki/Mohammad_Farrokhi_Yazdi)                                                                | فرخی یزدی            |
 | Ferdowsi                 | ferdosi.txt        | [here](https://en.wikipedia.org/wiki/Ferdowsi)                                                                               | فردوسی               |
 | Feyz Kashani             | feyz.txt           |  [here](https://en.wikipedia.org/wiki/Mohsen_Fayz_Kashani)                                                                   | فیض کاشانی           |
 | Qaani Shirazi            | qaani.txt          | [here](https://en.wikipedia.org/wiki/Qaani)                                                                                  | قاآنی شیرازی         |
